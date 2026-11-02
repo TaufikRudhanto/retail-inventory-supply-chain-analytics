@@ -1,0 +1,11 @@
+warehouse_id,warehouse_name,city,warehouse_capacity,is_active
+1,Warehouse 01,Jakarta,54316,1
+2,Warehouse 02,Bandung,81290,1
+3,Warehouse 03,Surabaya,74101,1
+4,Warehouse 04,Semarang,76520,1
+5,Warehouse 05,Yogyakarta,149848,1
+6,Warehouse 06,Medan,118106,1
+7,Warehouse 07,Makassar,105139,1
+8,Warehouse 08,Bekasi,67887,1
+9,Warehouse 09,Tangerang,134115,1
+10,Warehouse 10,Solo,114477,1
